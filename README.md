@@ -1,9 +1,7 @@
-# SFDX App
+# Account Geo Location 
 
-## Dev, Build and Test
+This application is a lwc version of trailhead https://trailhead.salesforce.com/content/learn/projects/develop-account-geolocation-app-with-aura-components .
 
-## Resources
+I felt the need of a lwc version of Geo Account App when I was learning app Development with Salesforce DX https://trailhead.salesforce.com/content/learn/projects/develop-account-geolocation-app-with-aura-components . 
 
-## Description of Files and Directories
-
-## Issues
+The above module take aura application and explained Salexforce DX . I felt the need of lwc version and here is this application.
