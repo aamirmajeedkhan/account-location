@@ -1,0 +1,9 @@
+<template>
+  <lightning-card title='Account Search' icon-name='standard:search'>
+    <div class='slds-form slds-p-around_x-small'>
+      <lightning-input label='Search' variant='label-hidden' placeholder='Search by name, phone, website, or address'
+        onchange={handleSearchTermChange} value={searchTerm}>
+      </lightning-input>
+    </div>
+  </lightning-card>
+</template>

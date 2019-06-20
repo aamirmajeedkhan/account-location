@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/AccountList": [
+                "AccountList/AccountList.js"
+            ],
+            "c/accountList": [
+                "accountList/accountList.js"
+            ],
+            "c/AccountMap": [
+                "AccountMap/AccountMap.js"
+            ],
+            "c/accountMap": [
+                "accountMap/accountMap.js"
+            ],
+            "c/accountSearch": [
+                "accountSearch/accountSearch.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}
