@@ -1,0 +1,137 @@
+[
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1561018849111,
+            "changeTime": 1561018849111,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1561018849111,
+            "changeTime": 1561018849111,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1561020031431,
+            "changeTime": 1561020031431,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1561018849111,
+            "changeTime": 1561018849111,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1561020031469,
+            "changeTime": 1561020031469,
+            "contentHash": "da96db5fc418edc242454d3c266786b628188ceb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes/AccountSearchController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes/AccountSearchController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 685,
+            "modifiedTime": 1561020102365,
+            "changeTime": 1561020102365,
+            "contentHash": "ca2a5a7f1d7a23bb78d288586fd8adc2e0a30422",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes/AccountSearchController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/classes/AccountSearchController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 201,
+            "modifiedTime": 1561020031469,
+            "changeTime": 1561020031469,
+            "contentHash": "7a3e4b514776ce7cf897d7fa898d29e5e3fd537b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/lwc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1561018887650,
+            "changeTime": 1561018887650,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/Aamir/Development/SFDC/geo-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/Aamir/Development/SFDC/geo-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1561019659298,
+            "changeTime": 1561019659298,
+            "contentHash": "6cfa576ff3c3bacc3fe1679b599e654af8ebb440",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
